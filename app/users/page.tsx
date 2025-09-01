@@ -1,10 +1,8 @@
 import React from 'react'
 
 const page = () => {
-  console.log("hiieeie");
-  
   return (
-    <div>About Page</div>
+    <div>User Page</div>
   )
 }
 
